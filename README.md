@@ -1,1 +1,1 @@
-# Tugas-StrukturData-2
+# Tugas-StrukturData-2 Structure
